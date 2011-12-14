@@ -1,0 +1,7 @@
+A very simple, more of a proof-of-concept benchmarking and profiling tool for specific code blocks.
+
+
+Requires XHPRof.
+
+
+See example.php for an example.
